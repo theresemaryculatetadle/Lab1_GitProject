@@ -1,0 +1,5 @@
+Therese Maryculate Tadle
+February 10, 2026
+Hello Git
+
+From this activity, I learned how to create a Git repository, track files using Git, and upload my project to GitHub. I understood the importance of staging and committing changes, and how GitHub helps store and share projects online. This activity helped me practice basic version control skills that are important for software development.
